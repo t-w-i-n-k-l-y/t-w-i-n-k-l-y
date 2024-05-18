@@ -1,8 +1,8 @@
-# Hi there 👋
+### Hi there 👋
 
 ## About Me
 - 💼 Former Trainee Software Engineer (Blockchain) at Tracified (99x)
-- 🎓 Recent Software Engineering graduate from SLIIT
+- 🎓 Fresh graduate in Software Engineering from SLIIT
 - 🌱 Currently exploring new technologies
 - 🔍 Actively seeking a software engineering role
 - 📫 Reach me at: thursha.herath@gmail.com
